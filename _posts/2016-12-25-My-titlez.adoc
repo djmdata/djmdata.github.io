@@ -1,5 +1,6 @@
 = My titlez
-:hp-tags:fred
+:hp-tags: fred
+
 
 Lorem ipsum ......
 
