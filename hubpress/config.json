@@ -4,7 +4,15 @@
     "repositoryName": "djmdata.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "It's big. It's data. It's Big Data.",
+    "description": "Description here.",
+    "logo": "Logo here",
+    "cover": "Cover here",
+    "postsPerPage": "6"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
