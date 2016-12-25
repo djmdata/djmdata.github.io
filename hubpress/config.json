@@ -11,7 +11,9 @@
     "cover": "Cover here",
     "postsPerPage": "6"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "twitter": "djmdata"
+  },
   "theme": {
     "name": "casper"
   }
