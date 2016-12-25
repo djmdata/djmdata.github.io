@@ -1,5 +1,5 @@
 = My titlez2
-:hp-tags: Spark fred
+:hp-tags: Spark, fred
 
 
 Lorem ipsu2m ......
